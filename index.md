@@ -247,7 +247,7 @@ The areas of interest include:
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Nikita Soni</b>
+			<b><a href="mailto:nisoni@cs.stonybrook.edu">Nikita Soni</a></b>
 			<br>
 			Stony Brook University, USA
 		</h6>
@@ -259,7 +259,7 @@ The areas of interest include:
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Lucie Flek</b>
+			<b><a href="mailto:flek@bit.uni-bonn.de">Lucie Flek</a></b>
 			<br>
 			University of Bonn, Germany
 		</h6>
@@ -271,7 +271,7 @@ The areas of interest include:
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Ashish Sharma</b>
+			<b><a href="mailto:ashshar@cs.washington.edu">Ashish Sharma</a></b>
 			<br>
 			University of Washington, USA
 		</h6>
@@ -283,7 +283,7 @@ The areas of interest include:
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Diyi Yang</b>
+			<b><a href="mailto:diyiy@cs.stanford.edu">Diyi Yang</a></b>
 			<br>
 			Stanford University, USA
 		</h6>
@@ -291,14 +291,13 @@ The areas of interest include:
 	  </div>
 	</div>
 </div>
-
 <div class="row_perso">
 	<div class="card_perso column_perso">
 	  <img src="/images/sara_hooker.jpeg" alt="Sara Hooker" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Sara Hooker</b>
+			<b><a href="mailto:sarahooker@cohere.com">Sara Hooker</a></b>
 			<br>
 			Cohere AI, USA
 		</h6>
@@ -310,7 +309,7 @@ The areas of interest include:
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>H Andrew Schwartz</b>
+			<b><a href="mailto:has@cs.stonybrook.edu">H Andrew Schwartz</a></b>
 			<br>
 			Stony Brook University, USA
 		</h6>
