@@ -38,12 +38,54 @@ Current large language models can possibly simulate some form of human context g
 Prior work has demonstrated the benefits of including the author’s information using LLMs for downstream NLP tasks. Recent research has also shown that LLMs can benefit from including additional author context in the LM pre-training task itself. Progress in the direction of merging the two successful parallels, i.e., human-centered NLP and LLMs, drives us toward creating a vision of human-centered LLMs for the future of NLP in the era of LLMs.
 </p>
 
-<h2 class="blackpar_title" id="Goals">Workshop Goals</h2>
-<p>
-Human-centered large language modeling has the potential to bring promising improvements in human-centric applications through multiple domains such as healthcare, education, consumerism, etc. Simultaneously, this new research focus also brings multitudes of unexplored architectural, data, technical, fairness, and ethical challenges. <b>With our workshop, we aim to create a platform where researchers can present rising challenges and solutions in building human-centered NLP models that bring together the ideas of human and social factors adaptation into the base LLMs of our NLP systems.</b>
-</p>
 
 <!-- Call for Papers -->
+<h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
+<p>Human-centered large language modeling has the potential to bring promising improvements in human-centric applications through multiple domains such as healthcare, education, consumerism, etc. Simultaneously, this new research focus also brings multitudes of unexplored architectural, data, technical, fairness, and ethical challenges.</p>
+
+
+<p>We invite submissions on topics that include, but are not limited to</p>:
+<ul>
+	<li><b>Human-centered LLM training/fine-tuning</b>: Strategies to include the human context of the speaker and/or addressee, such as their personal factors, social context, etc.; Integrating group and/or individual human characteristics and traits; Human language modeling with multi-lingual LLMs or low-resource languages</li>
+	<li><b>Analysis and Applications</b>: Evaluations for human language modeling that demonstrates personalized or socially contextual language understanding; Empirical findings with human language modeling demonstrating failure cases with an exhaustive analysis of negative results; Bias measurement and bias mitigation using human language modeling; Applications built on top of LLMs for real-world uses or translational impact</li>
+	<li><b>Datasets</b>: Obtaining data for training and evaluating human contextualized LLM models</li>
+	<li><b>Position papers</b>: Position papers on opportunities and challenges, including ethical risks</li>
+</ul>
+
+<p>With our workshop, we aim to create a platform where researchers can present rising challenges and solutions in building human-centered NLP models that bring together the ideas of human and social factors adaptation into the base LLMs of our NLP systems.</p>
+
+<h4>Archival Submissions</h4>
+<p>Authors are invited to submit long (8 pages) or short (4 pages) papers, with unlimited pages for references and appendices. Following the ACL conference policy, authors of approved papers will be given an additional page for the final, camera-ready versions of their papers.</p>
+
+Please ensure that the submissions are formatted according to the ACL template style. You can access the template <a href="https://github.com/acl-org/acl-style-files">here</a>.
+
+<h4>Non-Archival Submissions</h4>
+
+We welcome non-archival submissions through two tracks.
+
+First, you can submit an extended abstract of work not published elsewhere, of length 2-4 pages + 2 pages for references. This can include position papers, or early stage work that would benefit from peer feedback. These submissions will also be peer-reviewed in a double-blind fashion, similar to the archival papers.
+
+Additionally, work previously reviewed, published, or accepted to be published elsewhere can also be submitted to the non-archival track, along with details about the venue or journal where it is accepted, and a link to the archived version, if available. These papers will be reviewed in a single-blind fashion, and will be reviewed only for the fit to the workshop theme, and do not have any page limits.
+
+Please ensure that the submissions are formatted according to the ACL template style. You can access the template <a href="https://github.com/acl-org/acl-style-files">here</a>. Accepted papers in the two non-archival tracks will be given an opportunity to present the work at the workshop, but will not be published in the ACL Anthology.
+
+<h3>Important Dates (Tentative)</h3>
+
+<ul>
+	<li>May 10 (Fri), 2024: Direct paper submission deadline</li>
+	<li>May 17 (Fri), 2024: ARR commitment deadline (Submission of already ARR-reviewed papers)</li>
+	<li>June 17 (Mon), 2024: Notification of acceptance</li>
+	<li>June 24 (Mon), 2024: Camera-ready paper due</li>
+	<li>August 15 (Thu), 2024: Workshop date</li>
+</ul>
+
+<p>All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth").</p>
+
+
+<p>If you have any questions, please contact us at: <a href="mailto:workshophucllm@googlegroups.com">workshophucllm@googlegroups.com</a> </p>
+
+
+
 <h2 class="blackpar_title" id="Topics of Interest">Topics of Interest / CFP</h2>
 
 The areas of interest include:
@@ -353,6 +395,7 @@ The areas of interest include:
 	<li>Sherry Tongshuang Wu, Carnegie Mellon University, USA</li>
 	<li>Shijia Liu, Northeastern University, USA   </li>
 	<li>Shiran Dudy, Northeastern University, USA</li>
+	<li>Shreya havaldar, University of Pennsylvania, USA</li>
 	<li>Silvio Amir, Northeastern University, USA</li>
 	<li>Tal August, Allen Institue for AI, USA</li>
 	<li>Vivek Kulkarni, University of California, Santa Barbara, USA</li>
