@@ -44,7 +44,7 @@ Prior work has demonstrated the benefits of including the author’s information
 <p>Human-centered large language modeling has the potential to bring promising improvements in human-centric applications through multiple domains such as healthcare, education, consumerism, etc. Simultaneously, this new research focus also brings multitudes of unexplored architectural, data, technical, fairness, and ethical challenges.</p>
 
 
-<p>We invite submissions on topics that include, but are not limited to</p>:
+<p>We invite submissions on topics that include, but are not limited to:</p>
 <ul>
 	<li><b>Human-centered LLM training/fine-tuning</b>: Strategies to include the human context of the speaker and/or addressee, such as their personal factors, social context, etc.; Integrating group and/or individual human characteristics and traits; Human language modeling with multi-lingual LLMs or low-resource languages</li>
 	<li><b>Analysis and Applications</b>: Evaluations for human language modeling that demonstrates personalized or socially contextual language understanding; Empirical findings with human language modeling demonstrating failure cases with an exhaustive analysis of negative results; Bias measurement and bias mitigation using human language modeling; Applications built on top of LLMs for real-world uses or translational impact</li>
@@ -54,12 +54,12 @@ Prior work has demonstrated the benefits of including the author’s information
 
 <p>With our workshop, we aim to create a platform where researchers can present rising challenges and solutions in building human-centered NLP models that bring together the ideas of human and social factors adaptation into the base LLMs of our NLP systems.</p>
 
-<h4>Archival Submissions</h4>
+<h5>Archival Submissions</h5>
 <p>Authors are invited to submit long (8 pages) or short (4 pages) papers, with unlimited pages for references and appendices. Following the ACL conference policy, authors of approved papers will be given an additional page for the final, camera-ready versions of their papers.</p>
 
 Please ensure that the submissions are formatted according to the ACL template style. You can access the template <a href="https://github.com/acl-org/acl-style-files">here</a>.
 
-<h4>Non-Archival Submissions</h4>
+<h5>Non-Archival Submissions</h5>
 
 We welcome non-archival submissions through two tracks.
 
@@ -69,7 +69,7 @@ Additionally, work previously reviewed, published, or accepted to be published e
 
 Please ensure that the submissions are formatted according to the ACL template style. You can access the template <a href="https://github.com/acl-org/acl-style-files">here</a>. Accepted papers in the two non-archival tracks will be given an opportunity to present the work at the workshop, but will not be published in the ACL Anthology.
 
-<h3>Important Dates (Tentative)</h3>
+<h4>Important Dates (Tentative)</h4>
 
 <ul>
 	<li>May 10 (Fri), 2024: Direct paper submission deadline</li>
@@ -86,7 +86,7 @@ Please ensure that the submissions are formatted according to the ACL template s
 
 
 
-<h2 class="blackpar_title" id="Topics of Interest">Topics of Interest / CFP</h2>
+<h2 class="blackpar_title" id="Topics of Interest">Topics of Interest</h2>
 
 The areas of interest include:
 <ul>
@@ -120,7 +120,7 @@ The areas of interest include:
 
 
 <!--Confirmed Speakers-->
-<h2 class="blackpar_title" id="Keynote Speakers">Keynote Speakers</h2>
+<h2 class="blackpar_title" id="Speakers">Keynote Speakers</h2>
 <div class="row_perso">
 	<div class="card_perso column_perso">
 	  <img src="/images/daniel_hershcovich.jpeg" alt="Daniel Hershcovich" class="img_card_perso">
@@ -362,7 +362,7 @@ The areas of interest include:
 
 
 <!-- Program Committee -->
-<h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
+<h2 class="blackpar_title" id="Committee">Program Committee</h2>
 <ul>
 	<li>Amanda Curry, Bocconi University, Italy</li>
 	<li>Barbara Plank, LMU Munich, Germany</li>
