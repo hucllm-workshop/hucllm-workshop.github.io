@@ -38,6 +38,8 @@ Current large language models can possibly simulate some form of human context g
 Prior work has demonstrated the benefits of including the author’s information using LLMs for downstream NLP tasks. Recent research has also shown that LLMs can benefit from including additional author context in the LM pre-training task itself. Progress in the direction of merging the two successful parallels, i.e., human-centered NLP and LLMs, drives us toward creating a vision of human-centered LLMs for the future of NLP in the era of LLMs.
 </p>
 
+<br/>
+
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
@@ -60,7 +62,9 @@ Prior work has demonstrated the benefits of including the author’s information
 
 Please ensure that the submissions are formatted according to the ACL template style. You can access the template <a href="https://github.com/acl-org/acl-style-files">here</a>.
 
-<h5>Non-Archival Submissions</h5>
+
+
+<h5 style="margin-top: 10px;">Non-Archival Submissions</h5>
 
 We welcome non-archival submissions through two tracks.
 
@@ -78,7 +82,7 @@ Please ensure that the submissions are formatted according to the ACL template s
 	<li>May 10 (Fri), 2024: Direct paper submission deadline</li>
 	<li>May 17 (Fri), 2024: ARR commitment deadline (Submission of already ARR-reviewed papers)</li>
 	<li>June 17 (Mon), 2024: Notification of acceptance</li>
-	<li>June 24 (Mon), 2024: Camera-ready paper due</li>
+	<li>July 1 (Mon), 2024: Camera-ready paper due</li>
 	<li>August 15 (Thu), 2024: Workshop date</li>
 </ul>
 
@@ -122,6 +126,7 @@ The areas of interest include:
 </div>
 <br><br> -->
 
+<br/>
 
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="Speakers">Keynote Speakers</h2>
