@@ -54,6 +54,7 @@ Prior work has demonstrated the benefits of including the author’s information
 
 <p>With our workshop, we aim to create a platform where researchers can present rising challenges and solutions in building human-centered NLP models that bring together the ideas of human and social factors adaptation into the base LLMs of our NLP systems.</p>
 
+<br/>
 <h5>Archival Submissions</h5>
 <p>Authors are invited to submit long (8 pages) or short (4 pages) papers, with unlimited pages for references and appendices. Following the ACL conference policy, authors of approved papers will be given an additional page for the final, camera-ready versions of their papers.</p>
 
@@ -68,6 +69,8 @@ First, you can submit an extended abstract of work not published elsewhere, of l
 Additionally, work previously reviewed, published, or accepted to be published elsewhere can also be submitted to the non-archival track, along with details about the venue or journal where it is accepted, and a link to the archived version, if available. These papers will be reviewed in a single-blind fashion, and will be reviewed only for the fit to the workshop theme, and do not have any page limits.
 
 Please ensure that the submissions are formatted according to the ACL template style. You can access the template <a href="https://github.com/acl-org/acl-style-files">here</a>. Accepted papers in the two non-archival tracks will be given an opportunity to present the work at the workshop, but will not be published in the ACL Anthology.
+
+<br/>
 
 <h4>Important Dates (Tentative)</h4>
 
@@ -84,6 +87,7 @@ Please ensure that the submissions are formatted according to the ACL template s
 
 <p>If you have any questions, please contact us at: <a href="mailto:workshophucllm@googlegroups.com">workshophucllm@googlegroups.com</a> </p>
 
+<br/>
 
 
 <h2 class="blackpar_title" id="Topics of Interest">Topics of Interest</h2>
