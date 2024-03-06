@@ -185,7 +185,7 @@ The areas of interest include:
 	  </div>
 	</div> -->
 	<div class="card_perso column_perso">
-	  <img src="/images/Carolyn1.png" alt="Carolyn Rosé" class="img_card_perso">
+	  <img src="/images/Carolyn1.jpg" alt="Carolyn Rosé" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
