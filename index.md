@@ -172,7 +172,7 @@ The areas of interest include:
 <!--Panelists-->
 <h2 class="blackpar_title" id="Panelists">Panelists</h2>
 <div class="row_perso">
-	<div class="card_perso column_perso">
+	<!-- <div class="card_perso column_perso">
 	  <img src="/images/maarten_sap.jpeg" alt="Maarten Sap" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
@@ -183,7 +183,20 @@ The areas of interest include:
 		</h6>
 		</center>
 	  </div>
+	</div> -->
+	<div class="card_perso column_perso">
+	  <img src="/images/Carolyn1.jpg" alt="Carolyn Rosé" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Carolyn Rosé</b>
+			<br>
+			Carnegie Mellon University, USA
+		</h6>
+		</center>
+	  </div>
 	</div>
+
 	<div class="card_perso column_perso">
 	  <img src="/images/kayla_jordan.jpeg" alt="Kayden Jordan" class="img_card_perso">
 	  <div class="container_perso">
