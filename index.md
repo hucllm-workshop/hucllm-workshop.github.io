@@ -76,7 +76,7 @@ Please ensure that the submissions are formatted according to the ACL template s
 
 <br/>
 
-<h4>Important Dates (Tentative)</h4>
+<h4>Important Dates </h4>
 
 <ul>
 	<li>May 10 (Fri), 2024: Direct paper submission deadline</li>
