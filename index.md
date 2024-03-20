@@ -89,6 +89,23 @@ Please ensure that the submissions are formatted according to the ACL template s
 <p>All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth").</p>
 
 
+<h4>Submission Links</h4>
+<ul>
+	<li><b>Direct Paper Submission:</b> <a href="https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/HuCLLM">https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/HuCLLM</a></li>
+	<li><b>ARR Commitment Page:</b> <a href="https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/HuCLLM_ARR_Commitment">https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/HuCLLM_ARR_Commitment</a></li>
+</ul>
+
+<p>
+<b>Note: All authors must have an OpenReview profile. Please ensure profiles are complete before submission.</b> As per OpenReview's moderation policy for newly created profiles:
+
+<ul>
+<li>New profiles created without an institutional email will go through a moderation process that can take up to two weeks.</li>
+<li>New profiles created with an institutional email will be activated automatically.</li>
+</ul>
+
+</p>
+
+
 <p>If you have any questions, please contact us at: <a href="mailto:workshophucllm@googlegroups.com">workshophucllm@googlegroups.com</a> </p>
 
 <br/>
