@@ -88,6 +88,7 @@ Please ensure that the submissions are formatted according to the ACL template s
 
 <p>All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth").</p>
 
+<br/>
 
 <h4>Submission Links</h4>
 <ul>
