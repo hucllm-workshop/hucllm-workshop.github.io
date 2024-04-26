@@ -68,11 +68,13 @@ Please ensure that the submissions are formatted according to the ACL template s
 
 We welcome non-archival submissions through two tracks.
 
+<ul>
 <li><b>(1) Extended Abstract:</b> First, you can submit an extended abstract of work not published elsewhere, of length 2-4 pages + 2 pages for references. This can include position papers, or early stage work that would benefit from peer feedback. These submissions will also be peer-reviewed in a double-blind fashion, similar to the archival papers. Please use the OpenReview submission links below for submission of non-archival (extended abstract).</li>
 
 <li><b>(2) Published Papers:</b> Additionally, work previously published, or accepted to be published elsewhere (e.g., ACL Findings) can also be submitted to the non-archival track, along with details about the venue or journal where it is accepted, and a link to the archived version, if available. These papers will be reviewed in a single-blind fashion, and will be reviewed only for the fit to the workshop theme, and do not have any page limits. <i>We will release a form for submission of non-archival (published papers) soon.</i></li>
+</ul>
 
-Please ensure that the submissions are formatted according to the ACL template style. You can access the template <a href="https://github.com/acl-org/acl-style-files">here</a>. Accepted papers in the two non-archival tracks will be given an opportunity to present the work at the workshop, but will not be published in the ACL Anthology.
+<p>Please ensure that the submissions are formatted according to the ACL template style. You can access the template <a href="https://github.com/acl-org/acl-style-files">here</a>. Accepted papers in the two non-archival tracks will be given an opportunity to present the work at the workshop, but will not be published in the ACL Anthology.</p>
 
 <br/>
 
@@ -111,6 +113,7 @@ Please ensure that the submissions are formatted according to the ACL template s
 <p>If you have any questions, please contact us at: <a href="mailto:workshophucllm@googlegroups.com">workshophucllm@googlegroups.com</a> </p>
 
 <br/>
+
 
 
 <h2 class="blackpar_title" id="Topics of Interest">Topics of Interest</h2>
@@ -403,6 +406,7 @@ The areas of interest include:
 
 <p>If you have any questions, please contact us at: <a href="mailto:workshophucllm@googlegroups.com">workshophucllm@googlegroups.com</a></p>
 
+<br/>
 <!-- Program Committee -->
 <h2 class="blackpar_title" id="Committee">Program Committee</h2>
 <ul>
