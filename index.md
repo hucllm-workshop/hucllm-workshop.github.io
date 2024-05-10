@@ -13,7 +13,7 @@ layout: home
 <h2 class="blackpar_title">Human-Centered Large Language Modeling Workshop </h2>
 </center> -->
 
-<h3>*** GREAT NEWS!! Deadline Extended for Workshop Direct Submissions! New Deadline: <ins>May 20, 2024</ins> ***</h3>
+<h3> GREAT NEWS!! Deadline Extended for Workshop Direct Submissions! <br>*** New Deadline: <ins>May 20, 2024</ins> ***</h3>
 <p style="margin: 0px 0px 20px 0px;">
 
 <i>A word's meaning resides in the heart and soul of its "generator" - people. How do we include human (personal, social, cultural, situational) context, ethically, into LLMs -- the base models of our NLP systems?</i>
