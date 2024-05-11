@@ -13,7 +13,7 @@ layout: home
 <h2 class="blackpar_title">Human-Centered Large Language Modeling Workshop </h2>
 </center> -->
 
-<h3> GREAT NEWS!! Deadline Extended for Workshop Submissions! <br>*** New Deadline: <ins>May 20, 2024</ins> ***</h3>
+<h3> GREAT NEWS!! Deadline Extended for Paper Submissions! <br>*** New Deadline: <ins>May 20, 2024</ins> ***</h3>
 <p style="margin: 0px 0px 20px 0px;">
 
 <i>A word's meaning resides in the heart and soul of its "generator" - people. How do we include human (personal, social, cultural, situational) context, ethically, into LLMs -- the base models of our NLP systems?</i>
@@ -83,7 +83,7 @@ We welcome non-archival submissions through two tracks.
 
 <ul>
 	<li><del>May 10 (Fri), 2024</del> <b>May 20 (Mon), 2024</b> : Direct paper submission deadline (archival and non-archival extended abstract)</li>
-	<li><del>May 17 (Fri), 2024</del>del> <b>May 20 (Mon), 2024</b> : ARR commitment deadline (Submission of already ARR-reviewed papers with the paper link)</li>
+	<li><del>May 17 (Fri), 2024</del> <b>May 20 (Mon), 2024</b> : ARR commitment deadline (Submission of already ARR-reviewed papers with the paper link)</li>
 	<li>June 17 (Mon), 2024: Notification of acceptance</li>
 	<li>June 25 (Tue), 2024: Non-Archival (published papers) submission deadline  </li>
 	<li>July 1 (Mon), 2024: Camera-ready paper due</li>
