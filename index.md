@@ -13,7 +13,7 @@ layout: home
 <h2 class="blackpar_title">Human-Centered Large Language Modeling Workshop </h2>
 </center> -->
 
-<h3> GREAT NEWS!! Deadline Extended for Paper Submissions! <br>*** New Deadline: <ins>May 20, 2024</ins> ***</h3>
+<p style="margin:auto;"><h3> GREAT NEWS!! Deadline Extended for Paper Submissions! <br>*** New Deadline: <ins>May 20, 2024</ins> ***</h3></p>
 <p style="margin: 0px 0px 20px 0px;">
 
 <i>A word's meaning resides in the heart and soul of its "generator" - people. How do we include human (personal, social, cultural, situational) context, ethically, into LLMs -- the base models of our NLP systems?</i>
@@ -70,7 +70,7 @@ Please ensure that the submissions are formatted according to the ACL template s
 We welcome non-archival submissions through two tracks.
 
 <ul>
-<li><b>(1) Extended Abstract:</b> You can submit an extended abstract of work not published elsewhere, of length 2-4 pages + 2 pages for references. This can include position papers, or early stage work that would benefit from peer feedback. These submissions will also be peer-reviewed in a double-blind fashion, similar to the archival papers. Please use the OpenReview submission links below for submission of non-archival (extended abstract).</li>
+<li><b>(1) Extended Abstract (2-4 pages) or Full Length Short (4 pages) and Long (8 pages) Papers:</b> You can submit an extended abstract of work not published elsewhere, of length 2-4 pages or full-length short (4 pages) or long (8 pages) papers. This can include position papers, or early stage work that would benefit from peer feedback. These submissions will also be peer-reviewed in a double-blind fashion, similar to the archival papers. Please use the OpenReview submission links below for submission of non-archival (extended abstract).</li>
 
 <li><b>(2) Published Papers:</b> Work previously published, or accepted to be published elsewhere (e.g., ACL Findings) can also be submitted to the non-archival track, along with details about the venue or journal where it is accepted, and a link to the archived version, if available. These papers will be reviewed in a single-blind fashion, and will be reviewed only for the fit to the workshop theme, and do not have any page limits. Please use this <b>google form (<a href="https://forms.gle/ffwovoMhBm6vLhV17">https://forms.gle/ffwovoMhBm6vLhV17</a>)</b> for submission of non-archival (published papers).</li>
 </ul>
