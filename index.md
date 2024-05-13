@@ -70,9 +70,9 @@ Please ensure that the submissions are formatted according to the ACL template s
 We welcome non-archival submissions through two tracks.
 
 <ul>
-<li><b>(1) Extended Abstract:</b> First, you can submit an extended abstract of work not published elsewhere, of length 2-4 pages + 2 pages for references. This can include position papers, or early stage work that would benefit from peer feedback. These submissions will also be peer-reviewed in a double-blind fashion, similar to the archival papers. Please use the OpenReview submission links below for submission of non-archival (extended abstract).</li>
+<li><b>(1) Extended Abstract:</b> You can submit an extended abstract of work not published elsewhere, of length 2-4 pages + 2 pages for references. This can include position papers, or early stage work that would benefit from peer feedback. These submissions will also be peer-reviewed in a double-blind fashion, similar to the archival papers. Please use the OpenReview submission links below for submission of non-archival (extended abstract).</li>
 
-<li><b>(2) Published Papers:</b> Additionally, work previously published, or accepted to be published elsewhere (e.g., ACL Findings) can also be submitted to the non-archival track, along with details about the venue or journal where it is accepted, and a link to the archived version, if available. These papers will be reviewed in a single-blind fashion, and will be reviewed only for the fit to the workshop theme, and do not have any page limits. <i>We will release a form for submission of non-archival (published papers) soon.</i></li>
+<li><b>(2) Published Papers:</b> Work previously published, or accepted to be published elsewhere (e.g., ACL Findings) can also be submitted to the non-archival track, along with details about the venue or journal where it is accepted, and a link to the archived version, if available. These papers will be reviewed in a single-blind fashion, and will be reviewed only for the fit to the workshop theme, and do not have any page limits. <i>Please use this google form (<a href="https://forms.gle/ffwovoMhBm6vLhV17">https://forms.gle/ffwovoMhBm6vLhV17</a>) for submission of non-archival (published papers).</i></li>
 </ul>
 
 <p>Please ensure that the submissions are formatted according to the ACL template style. You can access the template <a href="https://github.com/acl-org/acl-style-files">here</a>. Accepted papers in the two non-archival tracks will be given an opportunity to present the work at the workshop, but will not be published in the ACL Anthology.</p>
@@ -82,8 +82,8 @@ We welcome non-archival submissions through two tracks.
 <h4>Important Dates </h4>
 
 <ul>
-	<li><del>May 10 (Fri), 2024</del> <b>May 20 (Mon), 2024</b> : Direct paper submission deadline (archival and non-archival extended abstract)</li>
-	<li><del>May 17 (Fri), 2024</del> <b>May 20 (Mon), 2024</b> : ARR commitment deadline (Submission of already ARR-reviewed papers with the paper link)</li>
+	<li><del>May 10 (Fri), 2024</del> <b>May 20 (Mon), 2024</b>: Direct paper submission deadline (archival and non-archival extended abstract)</li>
+	<li><del>May 17 (Fri), 2024</del> <b>May 20 (Mon), 2024</b>: ARR commitment deadline (Submission of already ARR-reviewed papers with the paper link)</li>
 	<li>June 17 (Mon), 2024: Notification of acceptance</li>
 	<li>June 25 (Tue), 2024: Non-Archival (published papers) submission deadline  </li>
 	<li>July 1 (Mon), 2024: Camera-ready paper due</li>
