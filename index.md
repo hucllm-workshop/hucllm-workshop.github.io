@@ -70,7 +70,7 @@ Please ensure that the submissions are formatted according to the ACL template s
 We welcome non-archival submissions through two tracks.
 
 <ul>
-<li><b>(1) Extended Abstract (2-4 pages) or Full Length Short (4 pages) and Long (8 pages) Papers:</b> You can submit an extended abstract of work not published elsewhere, of length 2-4 pages or full-length short (4 pages) or long (8 pages) papers. This can include position papers, or early stage work that would benefit from peer feedback. These submissions will also be peer-reviewed in a double-blind fashion, similar to the archival papers. Please use the OpenReview submission links below for submission of non-archival (extended abstract).</li>
+<li><b>(1) Extended Abstract (2-4 pages) or Full Length Short (4 pages) and Long (8 pages) Papers:</b> You can submit an extended abstract of work not published elsewhere, of length 2-4 pages or full-length short (4 pages) or long (8 pages) papers. This can include position papers, or early stage work that would benefit from peer feedback. These submissions will also be peer-reviewed in a double-blind fashion, similar to the archival papers. Please use the OpenReview submission links below for submission of non-archival (extended abstract/short/long).</li>
 
 <li><b>(2) Published Papers:</b> Work previously published, or accepted to be published elsewhere (e.g., ACL Findings) can also be submitted to the non-archival track, along with details about the venue or journal where it is accepted, and a link to the archived version, if available. These papers will be reviewed in a single-blind fashion, and will be reviewed only for the fit to the workshop theme, and do not have any page limits. Please use this <b>google form (<a href="https://forms.gle/ffwovoMhBm6vLhV17">https://forms.gle/ffwovoMhBm6vLhV17</a>)</b> for submission of non-archival (published papers).</li>
 </ul>
@@ -82,7 +82,7 @@ We welcome non-archival submissions through two tracks.
 <h4>Important Dates </h4>
 
 <ul>
-	<li><del>May 10 (Fri), 2024</del> <b>May 20 (Mon), 2024</b>: Direct paper submission deadline (archival and non-archival extended abstract)</li>
+	<li><del>May 10 (Fri), 2024</del> <b>May 20 (Mon), 2024</b>: Direct paper submission deadline (archival short/long and non-archival extended abstract/short/long)</li>
 	<li><del>May 17 (Fri), 2024</del> <b>May 20 (Mon), 2024</b>: ARR commitment deadline (Submission of already ARR-reviewed papers with the paper link)</li>
 	<li>June 17 (Mon), 2024: Notification of acceptance</li>
 	<li>June 25 (Tue), 2024: Non-Archival (published papers) submission deadline  </li>
@@ -96,7 +96,7 @@ We welcome non-archival submissions through two tracks.
 
 <h4>Submission Links</h4>
 <ul>
-	<li><b>Direct Paper Submission (Archival and Non-archival (extended abstract)):</b> <a href="https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/HuCLLM">https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/HuCLLM</a></li>
+	<li><b>Direct Paper Submission (Archival (short/long) and Non-archival (extended abstract/short/long)):</b> <a href="https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/HuCLLM">https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/HuCLLM</a></li>
   <li><b>Non-archival (published papers) Submission:</b> <a href="https://forms.gle/ffwovoMhBm6vLhV17">https://forms.gle/ffwovoMhBm6vLhV17</a></li>
 	<li><b>ARR Commitment Page:</b> <a href="https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/HuCLLM_ARR_Commitment">https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/HuCLLM_ARR_Commitment</a></li>
 </ul>
