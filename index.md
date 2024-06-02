@@ -412,40 +412,46 @@ The areas of interest include:
 <!-- Program Committee -->
 <h2 class="blackpar_title" id="Committee">Program Committee</h2>
 <ul>
-	<li>Amanda Curry, Bocconi University, Italy</li>
+  <li>Akbar Karimi, Rheinische Friedrich-Wilhelms Universität Bonn, Germany</li>
+  <li>Akhila Yerukola, Carnegie Mellon University, USA</li>
+  <li>Amanda Curry, Bocconi University, Italy</li>
+  <li>Anvesh Rao Vijjini, University of North Carolina, Chapel Hill, USA</li>
+  <li>Athiya Deviyani, Carnegie Mellon University, USA</li>
 	<li>Barbara Plank, LMU Munich, Germany</li>
-	<li>Cesa Salaam, Howard University, USA</li>
 	<li>Chia-Chien Hung, NEC Labs Europe, Germany</li>
-	<li>Dan Goldwasser, Purdue University, USA</li>
-	<li>Daniel Preotiuc-Pietro, Bloomberg, USA</li>
-	<li>Debora Nozza, Bocconi University, Italy</li>
-	<li>Francesco Barbieri, Snap Research, USA</li>
+  <li>Elizabeth Clark, Google, USA</li>
 	<li>Gavin Abercombie, Heriot-Watt University, Scotland</li>
 	<li>Giuseppe Attanasio, Bocconi University, Italy</li>
+  <li>Hannah Rashkin, Google, USA</li>
 	<li>Harmanpreet Kaur, University of Michigan, USA</li>
+  <li>Hwanhee Lee, Chung-Ang University, South Korea</li>
 	<li>Hye Sun Yun, Northeastern University, USA</li>
 	<li>Ian Stewart, Pacific Northwest National Laboratory, USA</li>
 	<li>Inna Lin, University of Washington, USA</li>
 	<li>Jaemin Cho, University of North Carolina Chapel Hill, USA</li>
 	<li>Jielin Qiu, Carnegie Mellon University, USA</li>
+  <li>Jimin Mun, Carnegie Mellon University, USA</li>
 	<li>Joan Plepi, University of Marburg, Germany</li>
-	<li>Kokil Jaidka, National University of Singapore</li>
+  <li>Jonathan K. Kummerfeld, University of Sydney, Australia</li>
+  <li>Karina H Halevy, Carnegie Mellon University, USA</li>
 	<li>Lucy Li, University of California, Berkeley, USA</li>
-	<li>Lucy Lu Wang, University of Washington, USA</li>
-	<li>Lyle Ungar, University of Pennsylvania, USA</li>
-	<li>Maarten Sap, Carnegie Mellon University, USA</li>
 	<li>Maria Antoniak, Allen Institute for AI, USA</li>
 	<li>Matthias Orlikowski, Bielefeld University, Germany</li>
 	<li>Meryem M'hamdi, University of Southern California, USA</li>
 	<li>Monica Munnangi, Northeastern University, USA </li>
+  <li>Naba Rizvi, University of California, San Diego, USA</li>
+  <li>Nicole Meister, Stanford University, USA</li>
+  <li>Paul Röttger, Bocconi University, Italy</li>
 	<li>Salvatore Giorgi, University of Pennsylvania, USA</li>
-	<li>Sherry Tongshuang Wu, Carnegie Mellon University, USA</li>
-	<li>Shijia Liu, Northeastern University, USA   </li>
-	<li>Shiran Dudy, Northeastern University, USA</li>
-	<li>Shreya havaldar, University of Pennsylvania, USA</li>
-	<li>Silvio Amir, Northeastern University, USA</li>
-	<li>Tal August, Allen Institue for AI, USA</li>
+  <li>Sayan Ghosh, University of Southern California, USA</li>
+  <li>Shaily Bhatt, Carnegie Mellon University, USA</li>
+  <li>Shaina Ashraf, Marburg University, Germany</li>
+  <li>Shijia Liu, Northeastern University, USA</li>
+	<li>Shreya Havaldar, University of Pennsylvania, USA</li>
+  <li>Siva Uday Sampreeth Chebolu, University of Houston, USA</li>
+  <li>Vahid Sadiri Javadi, Technische Universität Chemnitz, Germany</li>
 	<li>Vivek Kulkarni, University of California, Santa Barbara, USA</li>
+  <li>Wei-Fan Chen, Rheinische Friedrich-Wilhelms Universität Bonn, Germany</li>
 	<li>Zeerak Talat, Independent Researcher</li>
 </ul>
 
