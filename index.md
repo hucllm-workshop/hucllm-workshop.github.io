@@ -13,7 +13,8 @@ layout: home
 <h2 class="blackpar_title">Human-Centered Large Language Modeling Workshop </h2>
 </center> -->
 
-<h4 style="text-align:center;"> GREAT NEWS!! Deadline Extended for Paper Submissions! <br>*** New Deadline: <ins>May 20, 2024</ins> ***</h4>
+<!-- <h4 style="text-align:center;"> GREAT NEWS!! Deadline Extended for Paper Submissions! <br>*** New Deadline: <ins>May 20, 2024</ins> ***</h4> -->
+
 <p style="margin: 0px 0px 20px 0px;">
 
 <i>A word's meaning resides in the heart and soul of its "generator" - people. How do we include human (personal, social, cultural, situational) context, ethically, into LLMs -- the base models of our NLP systems?</i>
@@ -454,6 +455,8 @@ The areas of interest include:
   <li>Wei-Fan Chen, Rheinische Friedrich-Wilhelms Universität Bonn, Germany</li>
 	<li>Zeerak Talat, Independent Researcher</li>
 </ul>
+
+<p style="font-size: 125%;">Follow us on X: <a href="https://twitter.com/intent/user?screen_name=HuCLLM">@HuCLLM</a></p>
 
 
 <!-- <br><br>
