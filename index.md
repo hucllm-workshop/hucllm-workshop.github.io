@@ -87,6 +87,7 @@ We welcome non-archival submissions through two tracks.
 	<li><del>May 17 (Fri), 2024</del> <b>May 20 (Mon), 2024</b>: ARR commitment deadline (Submission of already ARR-reviewed papers with the paper link)</li>
 	<li>June 17 (Mon), 2024: Notification of acceptance</li>
 	<li>June 25 (Tue), 2024: Non-Archival (published papers) submission deadline  </li>
+  <li>July 1 (Mon), 2024: Non-archival (published papers) notification of acceptance </li>
 	<li>July 1 (Mon), 2024: Camera-ready paper due</li>
 	<li>August 15 (Thu), 2024: Workshop date</li>
 </ul>
