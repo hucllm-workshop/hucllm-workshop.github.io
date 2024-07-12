@@ -158,6 +158,29 @@ The areas of interest include:
 <h2 class="blackpar_title" id="Speakers">Keynote Speakers</h2>
 <div class="row_perso">
 	<div class="card_perso column_perso">
+	  <img src="/images/cristian-dnm.jpeg" alt="Cristian Danescu-Niculescu-Mizil" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Cristian Danescu-Niculescu-Mizil</b>
+			<br>
+			Cornell University, USA
+		</h6>
+		</center>
+	  </div>
+	</div>
+	<div class="card_perso column_perso">
+	  <img src="/images/mohit_bansal.jpeg" alt="Mohit Bansal" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Mohit Bansal</b>
+			<br>
+			University of North Carolina at Chapel Hill, USA
+		</h6>
+		</center>
+	  </div>
+	<div class="card_perso column_perso">
 	  <img src="/images/daniel_hershcovich.jpeg" alt="Daniel Hershcovich" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
@@ -170,29 +193,18 @@ The areas of interest include:
 	  </div>
 	</div>
 	<div class="card_perso column_perso">
-	  <img src="/images/snigdha_chaturvedi.jpeg" alt="Snigdha Chaturvedi" class="img_card_perso">
+	  <img src="/images/vered_shwartz.jpeg" alt="Vered Shwartz" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Snigdha Chaturvedi</b>
+			<b>Vered Shwartz</b>
 			<br>
-			University of North Carolina at Chapel Hill, USA
+			 University of British Columbia, Canada
 		</h6>
 		</center>
 	  </div>
 	</div>
-	<div class="card_perso column_perso">
-	  <img src="/images/sebastian_ruder.jpeg" alt="Sebastian Ruder" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Sebastian Ruder</b>
-			<br>
-			Google, Germany
-		</h6>
-		</center>
-	  </div>
-	</div>
+
 </div>
 
 <!--Panelists-->
@@ -222,7 +234,33 @@ The areas of interest include:
 		</center>
 	  </div>
 	</div>
+	<div class="card_perso column_perso">
+	  <img src="/images/ana_marasovic.jpeg" alt="Ana Marasović" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Ana Marasović</b>
+			<br>
+			 University of Utah, USA
+		</h6>
+		</center>
+	  </div>
+	</div>
+	<div class="card_perso column_perso">
+	  <img src="/images/vinodkumar_prabhakaran.jpeg" alt="Ana Marasović" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Vinodkumar Prabhakaran</b>
+			<br>
+			 Google Research, USA
+		</h6>
+		</center>
+	  </div>
+	</div>
+</div>
 
+<div class="row_perso">
 	<div class="card_perso column_perso">
 	  <img src="/images/kayla_jordan.jpeg" alt="Kayden Jordan" class="img_card_perso">
 	  <div class="container_perso">
@@ -247,45 +285,6 @@ The areas of interest include:
 		</center>
 	  </div>
 	</div>
-	<div class="card_perso column_perso">
-	  <img src="/images/diyi_yang.jpeg" alt="Diyi Yang" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Diyi Yang</b>
-			<br>
-			Stanford University, USA
-		</h6>
-		</center>
-	  </div>
-	</div>
-</div>
-
-<div class="row_perso">
-	<div class="card_perso column_perso">
-	  <img src="/images/sebastian_ruder.jpeg" alt="Sebastian Ruder" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Sebastian Ruder</b>
-			<br>
-			Google, Germany
-		</h6>
-		</center>
-	  </div>
-	</div>
-	<div class="card_perso column_perso">
-	  <img src="/images/sara_hooker.jpeg" alt="Sara Hooker" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Sara Hooker</b>
-			<br>
-			Cohere AI, USA
-		</h6>
-		</center>
-	  </div>
-	</div>
 </div>
 
 
@@ -296,37 +295,71 @@ The areas of interest include:
   <th>Schedule</th>
   </tr>
   <tr>
-  <td>9:00 - 10:00</td>
-  <td>Keynote Prof. Daniel Hershcovich (UCPH): <i>Cross-cultural alignments in LLMs</i></td>
+  <td>9:10 - 9:10</td>
+  <td>Opening Remarks</td>
+  </tr>
+  <tr>
+  <td>9:10 - 09:55</td>
+  <td>Keynote 1 - Prof. Cristian Danescu-Niculescu-Mizil</td>
   </tr>
     <tr>
-  <td>10:00 - 11:00</td>
-  <td>Poster session 1</td>
+  <td>09:55 - 10:30</td>
+  <td>Oral Session 1</td>
   </tr>
   <tr>
-  <td>11:00 - 12:00</td>
-  <td>Paper presentation slots 1</td>
+  <td>10:30 - 11:00</td>
+  <td>Coffee Break</td>
   </tr>
   <tr>
-  <td>12:00 - 13:00</td>
-  <td>Lunch break</td>
+  <td>11:00 - 11:45</td>
+  <td>Keynote 2 - Prof. Mohit Bansal</td>
   </tr>
+
   <tr>
-  <td>13:00 - 14:00</td>
-  <td>Keynote Dr. Sebastian Ruder (Google): <i>Building Multilingual LLMs for User-centric Applications</i></td>
+  	<td>11:45 - 13:45</td>
+	<td>Poster Session</td>
+  </tr>  
+
+  <tr>
+  <td>12:45 - 13:45</td>
+  <td>Lunch Break</td>
   </tr>
+
   <tr>
-  <td>14:00 - 15:00</td>
-  <td>Paper presentation slots 2</td>
+  <td>13:45 - 14:15</td>
+  <td>Keynote 3 - Prof. Daniel Hershcovich (UCPH): <i>Cross-cultural alignments in LLMs</i></td>
   </tr>
+
   <tr>
-  <td>15:30 - 16:30</td>
-  <td>Keynote Prof. Snigdha Chaturvedi (UNCC): <i>Socially-aware NLP</i></td>
+  <td>14:15 - 15:00</td>
+  <td>Oral Session 2</td>
   </tr>
+
   <tr>
-  <td>16:30 - 17:30</td>
+	  <td>15:00 - 15:30</td>
+	  <td>Brainstorming Session</td>
+  </tr>
+
+  <tr>
+  <td>15:30 - 16:00</td>
+  <td>Coffee Break</td>
+  </tr>
+
+  <tr>
+  <td>16:00 - 16:30</td>
+  <td>Keynote 4 - Prof. Vered Shwartz</td>
+  </tr>
+
+  <tr>
+  <td>16:30 - 17:25</td>
   <td>Panel discussion:  including following topics: <i>Where are human-centered LLMs important? How to achieve the vision of human-centered LLMs? Which ethical issues to keep in mind while creating human-centered LLMs?</i></td>
   </tr>
+
+  <tr>
+  <td>17:25 - 17:30</td>
+  <td>Closing Remarks</td>
+  </tr>
+
 </table>
 
 
