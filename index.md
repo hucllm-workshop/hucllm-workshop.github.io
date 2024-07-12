@@ -284,8 +284,6 @@ The areas of interest include:
 	  </div>
 	</div>
 </div>
-
-<div class="row_perso">
 	<div class="card_perso column_perso">
 	  <img src="/images/debora_nozza.jpeg" alt="Debora Nozza" class="img_card_perso">
 	  <div class="container_perso">
@@ -298,7 +296,6 @@ The areas of interest include:
 		</center>
 	  </div>
 	</div>
-</div>
 
 
 <h2 class="blackpar_title" id="Schedule">Tentative Schedule</h2>
