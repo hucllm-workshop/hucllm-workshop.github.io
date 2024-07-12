@@ -271,19 +271,20 @@ The areas of interest include:
 		</center>
 	  </div>
 	</div>
-	<div class="card_perso column_perso">
-	  <img src="/images/kayla_jordan.jpeg" alt="Kayden Jordan" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Kayden Jordan</b>
-			<br>
-			Harrisburg University of Science and Technology, USA
-		</h6>
-		</center>
+  <div class="row_perso">
+	  <div class="card_perso column_perso">
+	    <img src="/images/kayla_jordan.jpeg" alt="Kayden Jordan" class="img_card_perso">
+	    <div class="container_perso">
+		  <center>
+		  <h6>
+			  <b>Kayden Jordan</b>
+			  <br>
+			  Harrisburg University of Science and Technology, USA
+		  </h6>
+		  </center>
+	    </div>
 	  </div>
-	</div>
-	<div class="card_perso column_perso">
+	  <div class="card_perso column_perso">
 	  <img src="/images/debora_nozza.jpeg" alt="Debora Nozza" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
