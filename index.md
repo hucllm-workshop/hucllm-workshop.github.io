@@ -180,6 +180,7 @@ The areas of interest include:
 		</h6>
 		</center>
 	  </div>
+	</div>
 	<div class="card_perso column_perso">
 	  <img src="/images/daniel_hershcovich.jpeg" alt="Daniel Hershcovich" class="img_card_perso">
 	  <div class="container_perso">
