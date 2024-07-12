@@ -236,6 +236,18 @@ The areas of interest include:
 	  </div>
 	</div>
 	<div class="card_perso column_perso">
+	  <img src="/images/vinodkumar_prabhakaran.jpeg" alt="Vinodkumar Prabhakaran" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Vinodkumar Prabhakaran</b>
+			<br>
+			 Google Research, USA
+		</h6>
+		</center>
+	  </div>
+	</div>
+  <div class="card_perso column_perso">
 	  <img src="/images/ana_marasovic.jpeg" alt="Ana Marasović" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
@@ -247,14 +259,14 @@ The areas of interest include:
 		</center>
 	  </div>
 	</div>
-	<div class="card_perso column_perso">
-	  <img src="/images/vinodkumar_prabhakaran.jpeg" alt="Ana Marasović" class="img_card_perso">
+  <div class="card_perso column_perso">
+	  <img src="/images/snigdha_chaturvedi.jpeg" alt="Snigdha Chaturvedi" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Vinodkumar Prabhakaran</b>
+			<b>Snigdha Chaturvedi</b>
 			<br>
-			 Google Research, USA
+			 University of North Carolina at Chapel Hill, USA
 		</h6>
 		</center>
 	  </div>
