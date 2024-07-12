@@ -259,9 +259,6 @@ The areas of interest include:
 		</center>
 	  </div>
 	</div>
-</div>
-
-<div class="row_perso">
 	<div class="card_perso column_perso">
 	  <img src="/images/kayla_jordan.jpeg" alt="Kayden Jordan" class="img_card_perso">
 	  <div class="container_perso">
@@ -274,6 +271,9 @@ The areas of interest include:
 		</center>
 	  </div>
 	</div>
+</div>
+
+<div class="row_perso">
 	<div class="card_perso column_perso">
 	  <img src="/images/debora_nozza.jpeg" alt="Debora Nozza" class="img_card_perso">
 	  <div class="container_perso">
