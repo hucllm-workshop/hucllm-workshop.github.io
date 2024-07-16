@@ -13,7 +13,9 @@ layout: home
 <h2 class="blackpar_title">Human-Centered Large Language Modeling Workshop </h2>
 </center> -->
 
-<!-- <h4 style="text-align:center;"> GREAT NEWS!! Deadline Extended for Paper Submissions! <br>*** New Deadline: <ins>May 20, 2024</ins> ***</h4> -->
+<p style="margin: 1em 0 !important; padding: 1em;color: #494e52; text-indent: initial; background-color: #ebf5f8; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25);">
+	<b>Workshop Registration Information</b> (Early Deadline: Sunday, July 21): https://2024.aclweb.org/registration
+</p>
 
 <p style="margin: 0px 0px 20px 0px;">
 
@@ -39,6 +41,8 @@ Current large language models can possibly simulate some form of human context g
 <p>
 Prior work has demonstrated the benefits of including the author’s information using LLMs for downstream NLP tasks. Recent research has also shown that LLMs can benefit from including additional author context in the LM pre-training task itself. Progress in the direction of merging the two successful parallels, i.e., human-centered NLP and LLMs, drives us toward creating a vision of human-centered LLMs for the future of NLP in the era of LLMs.
 </p>
+
+<p> With our first edition of the Human-Centered Large Language Modeling (HuCLLM) workshop, we aim to create a platform where researchers can present rising challenges and solutions in building human-centered NLP models that bring together the ideas of human and social factors adaptation into the base LLMs of our NLP systems.</p>
 
 <br/>
 
@@ -156,6 +160,7 @@ The areas of interest include:
 
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="Speakers">Keynote Speakers</h2>
+<h4>In-Person</h4>
 <div class="row_perso">
 	<div class="card_perso column_perso">
 	  <img src="/images/cristian-dnm.jpeg" alt="Cristian Danescu-Niculescu-Mizil" class="img_card_perso">
@@ -182,18 +187,6 @@ The areas of interest include:
 	  </div>
 	</div>
 	<div class="card_perso column_perso">
-	  <img src="/images/daniel_hershcovich.jpeg" alt="Daniel Hershcovich" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Daniel Hershcovich</b>
-			<br>
-			University of Copenhagen, Denmark
-		</h6>
-		</center>
-	  </div>
-	</div>
-	<div class="card_perso column_perso">
 	  <img src="/images/vered_shwartz.jpeg" alt="Vered Shwartz" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
@@ -205,11 +198,28 @@ The areas of interest include:
 		</center>
 	  </div>
 	</div>
+</div>
+
+<div class="row_perso">
+<h4>Remote</h4>
+	<div class="card_perso column_perso">
+	  <img src="/images/daniel_hershcovich.jpeg" alt="Daniel Hershcovich" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Daniel Hershcovich</b>
+			<br>
+			University of Copenhagen, Denmark
+		</h6>
+		</center>
+	  </div>
+	</div>
 
 </div>
 
 <!--Panelists-->
 <h2 class="blackpar_title" id="Panelists">Panelists</h2>
+<h4>In-Person</h4>
 <div class="row_perso">
 	<!-- <div class="card_perso column_perso">
 	  <img src="/images/maarten_sap.jpeg" alt="Maarten Sap" class="img_card_perso">
@@ -259,6 +269,10 @@ The areas of interest include:
 		</center>
 	  </div>
 	</div>
+
+</div>
+<div class="row_perso">
+<h4>Remote</h4>
   <div class="card_perso column_perso">
 	  <img src="/images/snigdha_chaturvedi.jpeg" alt="Snigdha Chaturvedi" class="img_card_perso">
 	  <div class="container_perso">
@@ -271,7 +285,7 @@ The areas of interest include:
 		</center>
 	  </div>
 	</div>
-  <div class="row_perso">
+  
 	  <div class="card_perso column_perso">
 	    <img src="/images/kayla_jordan.jpeg" alt="Kayden Jordan" class="img_card_perso">
 	    <div class="container_perso">
@@ -311,7 +325,7 @@ The areas of interest include:
   </tr>
   <tr>
   <td>9:10 - 09:55</td>
-  <td>Keynote 1 - Prof. Cristian Danescu-Niculescu-Mizil</td>
+  <td>Keynote 1 - Dr. Cristian Danescu-Niculescu-Mizil</td>
   </tr>
     <tr>
   <td>09:55 - 10:30</td>
@@ -323,7 +337,7 @@ The areas of interest include:
   </tr>
   <tr>
   <td>11:00 - 11:45</td>
-  <td>Keynote 2 - Prof. Mohit Bansal</td>
+  <td>Keynote 2 - Dr. Mohit Bansal</td>
   </tr>
 
   <tr>
@@ -338,7 +352,7 @@ The areas of interest include:
 
   <tr>
   <td>13:45 - 14:15</td>
-  <td>Keynote 3 - Prof. Daniel Hershcovich (UCPH): <i>Cross-cultural alignments in LLMs</i></td>
+  <td>Keynote 3 - Dr. Daniel Hershcovich (UCPH): <i>Cross-cultural alignments in LLMs</i></td>
   </tr>
 
   <tr>
@@ -358,7 +372,7 @@ The areas of interest include:
 
   <tr>
   <td>16:00 - 16:30</td>
-  <td>Keynote 4 - Prof. Vered Shwartz</td>
+  <td>Keynote 4 - Dr. Vered Shwartz</td>
   </tr>
 
   <tr>
@@ -499,6 +513,11 @@ The areas of interest include:
 	<li>Vivek Kulkarni, University of California, Santa Barbara, USA</li>
   <li>Wei-Fan Chen, Rheinische Friedrich-Wilhelms Universität Bonn, Germany</li>
 	<li>Zeerak Talat, Independent Researcher</li>
+</ul>
+
+<h2 class="blackpar_title" id="Committee">Volunteer</h2>
+<ul>
+	<li>Mounika Marreddy, University of Bonn, Germany</li>
 </ul>
 
 <p style="font-size: 125%; margin-top:20px;">Follow us on X: <a href="https://twitter.com/intent/user?screen_name=HuCLLM">@HuCLLM</a></p>
