@@ -13,8 +13,8 @@ layout: home
 <h2 class="blackpar_title">Human-Centered Large Language Modeling Workshop </h2>
 </center> -->
 
-<p style="margin: 1em 0 !important; padding: 1em;color: #494e52; text-indent: initial; background-color: #ebf5f8; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25);">
-	<b>Workshop Registration Information</b> (Early Deadline: Sunday, July 21): https://2024.aclweb.org/registration
+<p style="margin: 2em 0 !important; padding: 1em;color: #494e52; text-indent: initial; background-color: #ebf5f8; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25);">
+	<b>Workshop Registration Information (Early Deadline: Sunday, July 21)</b>: <a href="https://2024.aclweb.org/registration">https://2024.aclweb.org/registration</a>
 </p>
 
 <p style="margin: 0px 0px 20px 0px;">
@@ -60,7 +60,7 @@ Prior work has demonstrated the benefits of including the author’s information
 	<li><b>Position papers</b>: Position papers on opportunities and challenges, including ethical risks</li>
 </ul>
 
-<p>With our workshop, we aim to create a platform where researchers can present rising challenges and solutions in building human-centered NLP models that bring together the ideas of human and social factors adaptation into the base LLMs of our NLP systems.</p>
+<!-- <p>With our workshop, we aim to create a platform where researchers can present rising challenges and solutions in building human-centered NLP models that bring together the ideas of human and social factors adaptation into the base LLMs of our NLP systems.</p> -->
 
 <br/>
 <h5>Archival Submissions</h5>
@@ -160,7 +160,7 @@ The areas of interest include:
 
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="Speakers">Keynote Speakers</h2>
-<h4>In-Person</h4>
+<p style="font-size: 1.3em;">In-Person</p>
 <div class="row_perso">
 	<div class="card_perso column_perso">
 	  <img src="/images/cristian-dnm.jpeg" alt="Cristian Danescu-Niculescu-Mizil" class="img_card_perso">
@@ -201,7 +201,7 @@ The areas of interest include:
 </div>
 
 <div class="row_perso">
-<h4>Remote</h4>
+<p style="font-size: 1.3em;">Remote</p>
 	<div class="card_perso column_perso">
 	  <img src="/images/daniel_hershcovich.jpeg" alt="Daniel Hershcovich" class="img_card_perso">
 	  <div class="container_perso">
@@ -219,7 +219,7 @@ The areas of interest include:
 
 <!--Panelists-->
 <h2 class="blackpar_title" id="Panelists">Panelists</h2>
-<h4>In-Person</h4>
+<p style="font-size: 1.3em;">In-Person</p>
 <div class="row_perso">
 	<!-- <div class="card_perso column_perso">
 	  <img src="/images/maarten_sap.jpeg" alt="Maarten Sap" class="img_card_perso">
@@ -272,7 +272,7 @@ The areas of interest include:
 
 </div>
 <div class="row_perso">
-<h4>Remote</h4>
+<p style="font-size: 1.3em;">Remote</p>
   <div class="card_perso column_perso">
 	  <img src="/images/snigdha_chaturvedi.jpeg" alt="Snigdha Chaturvedi" class="img_card_perso">
 	  <div class="container_perso">
