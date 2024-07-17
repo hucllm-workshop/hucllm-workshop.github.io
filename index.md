@@ -14,7 +14,7 @@ layout: home
 </center> -->
 
 
-<p style="margin: 1em 0 !important; padding: 1em;color: #494e52; text-indent: initial;">
+<p style="margin: 1em 0 !important;color: #494e52; text-indent: initial; font-size: 1.3em;">
 	<b>Follow us on X:</b> <a href="https://twitter.com/intent/user?screen_name=HuCLLM">@HuCLLM</a>
 </p>
 
