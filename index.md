@@ -14,8 +14,8 @@ layout: home
 </center> -->
 
 
-<p style="margin: 2em 0 !important; padding: 1em;color: #494e52; text-indent: initial; background-color: #ebf5f8; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25);">
-	<b>Follow us on X: <a href="https://twitter.com/intent/user?screen_name=HuCLLM">@HuCLLM</a></a>
+<p style="margin: 1em 0 !important; padding: 1em;color: #494e52; text-indent: initial;">
+	<b>Follow us on X:</b> <a href="https://twitter.com/intent/user?screen_name=HuCLLM">@HuCLLM</a>
 </p>
 
 <p style="margin: 2em 0 !important; padding: 1em;color: #494e52; text-indent: initial; background-color: #ebf5f8; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25);">
