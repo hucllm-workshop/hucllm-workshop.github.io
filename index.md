@@ -13,6 +13,11 @@ layout: home
 <h2 class="blackpar_title">Human-Centered Large Language Modeling Workshop </h2>
 </center> -->
 
+
+<p style="margin: 2em 0 !important; padding: 1em;color: #494e52; text-indent: initial; background-color: #ebf5f8; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25);">
+	<b>Follow us on X: <a href="https://twitter.com/intent/user?screen_name=HuCLLM">@HuCLLM</a></a>
+</p>
+
 <p style="margin: 2em 0 !important; padding: 1em;color: #494e52; text-indent: initial; background-color: #ebf5f8; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25);">
 	<b>Workshop Registration Information (Early Deadline: Sunday, July 21)</b>: <a href="https://2024.aclweb.org/registration">https://2024.aclweb.org/registration</a>
 </p>
@@ -201,7 +206,7 @@ The areas of interest include:
 </div>
 
 <div class="row_perso">
-<p style="font-size: 1.3em;">Remote</p>
+<p style="font-size: 1.3em;">Virtual</p>
 	<div class="card_perso column_perso">
 	  <img src="/images/daniel_hershcovich.jpeg" alt="Daniel Hershcovich" class="img_card_perso">
 	  <div class="container_perso">
@@ -246,6 +251,18 @@ The areas of interest include:
 	  </div>
 	</div>
 	<div class="card_perso column_perso">
+	  <img src="/images/barbara_plank.png" alt="Barbara Plank" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Barbara Plank</b>
+			<br>
+			LMU Munich, Germany
+		</h6>
+		</center>
+	  </div>
+	</div>
+	<div class="card_perso column_perso">
 	  <img src="/images/vinodkumar_prabhakaran.jpeg" alt="Vinodkumar Prabhakaran" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
@@ -257,7 +274,7 @@ The areas of interest include:
 		</center>
 	  </div>
 	</div>
-  <div class="card_perso column_perso">
+  <!-- <div class="card_perso column_perso">
 	  <img src="/images/ana_marasovic.jpeg" alt="Ana Marasović" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
@@ -268,11 +285,11 @@ The areas of interest include:
 		</h6>
 		</center>
 	  </div>
-	</div>
+	</div> -->
 
 </div>
 <div class="row_perso">
-<p style="font-size: 1.3em;">Remote</p>
+<p style="font-size: 1.3em;">Virtual</p>
   <div class="card_perso column_perso">
 	  <img src="/images/snigdha_chaturvedi.jpeg" alt="Snigdha Chaturvedi" class="img_card_perso">
 	  <div class="container_perso">
@@ -520,7 +537,7 @@ The areas of interest include:
 	<li>Mounika Marreddy, University of Bonn, Germany</li>
 </ul>
 
-<p style="font-size: 125%; margin-top:20px;">Follow us on X: <a href="https://twitter.com/intent/user?screen_name=HuCLLM">@HuCLLM</a></p>
+
 
 
 <!-- <br><br>
