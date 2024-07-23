@@ -180,6 +180,18 @@ The areas of interest include:
 	  </div>
 	</div>
 	<div class="card_perso column_perso">
+	  <img src="/images/barbara_plank.png" alt="Barbara Plank" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Barbara Plank</b>
+			<br>
+			LMU Munich, Germany
+		</h6>
+		</center>
+	  </div>
+	</div>
+	<!-- <div class="card_perso column_perso">
 	  <img src="/images/mohit_bansal.jpeg" alt="Mohit Bansal" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
@@ -190,7 +202,7 @@ The areas of interest include:
 		</h6>
 		</center>
 	  </div>
-	</div>
+	</div> -->
 	<div class="card_perso column_perso">
 	  <img src="/images/vered_shwartz.jpeg" alt="Vered Shwartz" class="img_card_perso">
 	  <div class="container_perso">
@@ -354,7 +366,7 @@ The areas of interest include:
   </tr>
   <tr>
   <td>11:00 - 11:45</td>
-  <td>Keynote 2 - Dr. Mohit Bansal</td>
+  <td>Keynote 2 - Dr. Barbara Plank</td>
   </tr>
 
   <tr>
