@@ -19,6 +19,10 @@ layout: home
 </p>
 
 <p style="margin: 2em 0 !important; padding: 1em;color: #494e52; text-indent: initial; background-color: #ebf5f8; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25);">
+	<b>The schedule for Oral and Poster Sessions Scheduleis now out!</b>: <a href="/sessions.md">Paper Sessions Schedule</a>
+</p>
+
+<p style="margin: 2em 0 !important; padding: 1em;color: #494e52; text-indent: initial; background-color: #ebf5f8; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25);">
 	<b>Workshop Registration Information (Early Deadline: Sunday, July 21)</b>: <a href="https://2024.aclweb.org/registration">https://2024.aclweb.org/registration</a>
 </p>
 
@@ -342,7 +346,7 @@ The areas of interest include:
  </div>
 
 
-<h2 class="blackpar_title" id="Schedule">Tentative Schedule</h2>
+<h2 class="blackpar_title" id="Schedule">Schedule</h2>
 <table>
   <tr>
   <th>Time</th>
