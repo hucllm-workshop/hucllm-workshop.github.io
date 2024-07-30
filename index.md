@@ -19,7 +19,7 @@ layout: home
 </p>
 
 <p style="margin: 2em 0 !important; padding: 1em;color: #494e52; text-indent: initial; background-color: #ebf5f8; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25);">
-	<b>The schedule for Oral and Poster Sessions Scheduleis now out!</b>: <a href="/sessions.md">Paper Sessions Schedule</a>
+	<b>The schedule for oral and poster sessions is now out!</b>: <a href="/paper_schedule">Paper Sessions Schedule</a>
 </p>
 
 <p style="margin: 2em 0 !important; padding: 1em;color: #494e52; text-indent: initial; background-color: #ebf5f8; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25);">

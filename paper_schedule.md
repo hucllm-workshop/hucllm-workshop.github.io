@@ -10,7 +10,7 @@ layout: home
 
 <h1 class="blackpar_title">Paper Sessions Schedule</h1>
 
-
+<br/>
 <h2 class="blackpar_title">Oral Session 1 (9:55-10:30)</h2>
 
 <table>
@@ -41,13 +41,17 @@ layout: home
 	  </tr>	
 </table>
 
+<br/>
+
 <h2 class="blackpar_title">Poster Session (11:45-13:45)</h2>
 <table>
   <tr>
+ 	 <th>Time</th>
 	<th>Paper Title</th>
 	<th>Authors</th>
   </tr>
   <tr>
+	<td rowspan="8">11:45-13:45</td>
 	<td>To What Extent Are Large Language Models Capable of Generating Substantial Reflections for Motivational Interviewing Counseling Chatbots? A Human Evaluation</td>
 	<td>Erkan Basar, Iris Hendrickx, Emiel Krahmer, Gert-Jan de Bruijn and Tibor Bosse</td>
 	  </tr>
@@ -81,7 +85,7 @@ layout: home
   </tr>
 </table>
 
-
+<br/>
 
 <h2 class="blackpar_title">Oral Session 2 (14:15-15:00)</h2>
 
