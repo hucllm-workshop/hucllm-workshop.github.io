@@ -51,7 +51,7 @@ layout: home
 	<th>Authors</th>
   </tr>
   <tr>
-	<td rowspan="8">11:45-13:45</td>
+	<td rowspan="10">11:45-13:45</td>
 	<td>To What Extent Are Large Language Models Capable of Generating Substantial Reflections for Motivational Interviewing Counseling Chatbots? A Human Evaluation</td>
 	<td>Erkan Basar, Iris Hendrickx, Emiel Krahmer, Gert-Jan de Bruijn and Tibor Bosse</td>
 	  </tr>
