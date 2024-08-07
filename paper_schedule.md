@@ -83,6 +83,14 @@ layout: home
 	<td>My Answer is C: First-Token Probabilities Do Not Match Text Answers in Instruction-Tuned Language Models</td>
 	<td>Xinpeng Wang, Bolei Ma, Chengzhi Hu, Leon Weber-Genzel, Paul Rottger, Frauke Kreuter, Dirk Hovy and Barbara Plank</td>
   </tr>
+  <tr>
+  <td>Learning from Teaching Assistants to Formulate Subgoals for Programming Tasks: Exploring the Potential for AI Teaching Assistants</td>
+	<td>Changyoon Lee, Junho Myung, Jieun Han, Jiho Jin and Alice Oh</td>
+  </tr>
+  <tr>
+  <td>Offline RLHF Methods Need More Accurate Supervision Signals</td>
+	<td>Shiqi Wang, Zhengze Zhang, Wang Xiaoliang, Rui Zhao, Fei Tan and Nguyen, Cam-Tu</td>
+	  </tr>
 </table>
 
 <br/>
