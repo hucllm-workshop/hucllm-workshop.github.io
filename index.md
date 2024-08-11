@@ -353,7 +353,7 @@ The areas of interest include:
   <th>Schedule</th>
   </tr>
   <tr>
-  <td>9:10 - 9:10</td>
+  <td>9:00 - 9:10</td>
   <td>Opening Remarks</td>
   </tr>
   <tr>
