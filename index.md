@@ -290,6 +290,18 @@ The areas of interest include:
 		</center>
 	  </div>
 	</div>
+	<div class="card_perso column_perso">
+	  <img src="/images/vered_shwartz.jpeg" alt="Vered Shwartz" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Vered Shwartz</b>
+			<br>
+			 University of British Columbia, Canada
+		</h6>
+		</center>
+	  </div>
+	</div>
   <!-- <div class="card_perso column_perso">
 	  <img src="/images/ana_marasovic.jpeg" alt="Ana Marasović" class="img_card_perso">
 	  <div class="container_perso">
