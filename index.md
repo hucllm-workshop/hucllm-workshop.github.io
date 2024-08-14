@@ -370,7 +370,7 @@ The areas of interest include:
   </tr>
   <tr>
   <td>9:10 - 09:55</td>
-  <td>Keynote 1 - Dr. Cristian Danescu-Niculescu-Mizil</td>
+  <td>Keynote 1 - Dr. Cristian Danescu-Niculescu-Mizil: <i>Assisting Human-Human Communication With Artificial Conversational Intuition</i></td>
   </tr>
     <tr>
   <td>09:55 - 10:30</td>
@@ -382,7 +382,7 @@ The areas of interest include:
   </tr>
   <tr>
   <td>11:00 - 11:45</td>
-  <td>Keynote 2 - Dr. Barbara Plank</td>
+  <td>Keynote 2 - Dr. Barbara Plank: <i>Human-centered NLP: We are (still) not paying enough attention to human label variation</i></td>
   </tr>
 
   <tr>
@@ -397,7 +397,7 @@ The areas of interest include:
 
   <tr>
   <td>13:45 - 14:15</td>
-  <td>Keynote 3 - Dr. Daniel Hershcovich (UCPH): <i>Cross-cultural alignments in LLMs</i></td>
+  <td>Keynote 3 - Dr. Daniel Hershcovich (UCPH): <i>Reversing the Alignment Paradigm: LLMs Shaping Human Cultural Norms, Behaviors, and Attitudes</i></td>
   </tr>
 
   <tr>
@@ -417,12 +417,12 @@ The areas of interest include:
 
   <tr>
   <td>16:00 - 16:30</td>
-  <td>Keynote 4 - Dr. Vered Shwartz</td>
+  <td>Keynote 4 - Dr. Vered Shwartz: <i>Navigating Cultural Adaptation of LLMs: Knowledge, Context, and Consistency</i></td>
   </tr>
 
   <tr>
   <td>16:30 - 17:25</td>
-  <td>Panel discussion:  including following topics: <i>Where are human-centered LLMs important? How to achieve the vision of human-centered LLMs? Which ethical issues to keep in mind while creating human-centered LLMs?</i></td>
+  <td>Panel discussion:  including following topics: <i>Human-centeredness, Evaluation, Diversity of participation, Impact, challenges and effects, Future / Actions</i></td>
   </tr>
 
   <tr>
